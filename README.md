@@ -1,3 +1,3 @@
-# Indomitable
+# Domosaur
 
 Directions in `main.js`!
