@@ -9,3 +9,4 @@
 * change an image's size
 * change a div to be visibility: hidden
 * change a div to be flex-direction: row instead of column
+* On click of a button, change a something to something else.b

@@ -1,4 +1,8 @@
 img {
   width: 162px;
-  height: 108px;
+}
+
+#make-me-a-row {
+  display: flex;
+  flex-direction: column;
 }

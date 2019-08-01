@@ -13,7 +13,14 @@ const paragraph = document.querySelector('p.mess-with-me');
 paragraph.style.backgroundColor = 'lightgreen';
 
 
-// Change the dinosaur image's dimensions to be 324 pixels wide and 216 pixels tall.
-const dino = document.querySelector('img');
-dino.style.width = '324px';
-dino.style.height = '216px'
+// Change the first dinosaur image so that the image's dimensions are 324 pixels wide.
+const triceratops = document.querySelector('#triceratops');
+triceratops.style.width = '324px';
+
+
+// Hide the second dinosaur's image so that it's no longer visible, and so that the area below it moves up to take the space.
+const hideMe = document.querySelector('#hide-me-area');
+hideMe.style.display = 'none';
+
+
+// 
